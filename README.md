@@ -8,8 +8,6 @@ Email Me 👉 ✉️ **vickyreddybro2004@gmail.com** For Collaboration/Project o
 - 👯 **I’m looking to collaborate on:** Python and SpringBoot projects
 - 💬 **Ask me about:** Collaboration, Tech Support
 - 📫 **How to reach me:** vickyreddybro2004@gmail.com
-- 😄 **Pronouns:** Vicky
-- ⚡ **Fun fact:** I Love Tech and Tech Love Me
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/cuzitsvicky/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/m-raja-rao-reddy-91b49621b/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vickyreddybro2004@gmail.com) 
